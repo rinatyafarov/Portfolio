@@ -1,5 +1,5 @@
 # Исследование стартапов
-[Python/JypiterNotebook](https://docs.google.com/spreadsheets/d/18_keuvNKiotPwlz7Z8Fk-HdBLXHNRfcrNJBr80ey5zQ/edit?usp=sharing)
+[Python/JypiterNotebook]([https://docs.google.com/spreadsheets/d/18_keuvNKiotPwlz7Z8Fk-HdBLXHNRfcrNJBr80ey5zQ/edit?usp=sharing](https://github.com/rinatyafarov/Portfolio/blob/main/Startup/Startup.ipynb))
 ## Описание проекта
 Финансовая компания, которая предоставляет льготные займы стартапам, хочет войти на инвестиционный рынок с прицелом на покупку, развитие и последующую перепродажу перспективных стартапов. Необходимо подготовить датасет и проверить, что данные в нём соответствуют здравому смыслу, а также ответить на вопросы заказчика как о предобработке, так и о значении данных для бизнеса.
 ## Инструменты
