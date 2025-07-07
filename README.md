@@ -6,6 +6,7 @@
 | Product metrics | Расчёт продуктовых метрик сервиса доставки еды | [Ссылка](https://github.com/rinatyafarov/Portfolio/tree/e8da58437f938d3fb65074a31a0ab96a2666e574/Product%20metrics) | YandexDataLens,PostgreSQL  |
 | Online shop | Продажи интернет магазина | [Ссылка](https://github.com/rinatyafarov/Portfolio/tree/e8da58437f938d3fb65074a31a0ab96a2666e574/Online%20shop) | YandexDataLens,PostgreSQL  |
 | TED Conference | Исследование конференция TED | [Ссылка](https://github.com/rinatyafarov/Portfolio/tree/e8da58437f938d3fb65074a31a0ab96a2666e574/TED%20Conference) | YandexDataLens,PostgreSQL  |
+| YandexAfisha | Аналитический отчет деятельности сервиса Яндекс.Афиша| [Ссылка](https://github.com/rinatyafarov/Portfolio/tree/0fd80d31e99c23f066eddfcb1c74b469bcedff94/YandexAfisha) |Python(pandas,numpy,matplotlib.pyplot),YandexDataLens |
 | AB-test | Разработка A/B-тестирования и анализ результатов |[Ссылка](https://github.com/rinatyafarov/Portfolio/tree/e8da58437f938d3fb65074a31a0ab96a2666e574/AB-test) | Python(pandas,numpy,matplotlib.pyplot,seaborn) |
 | Statistical analysis | Проверка гипотезы в Python |[Ссылка](https://github.com/rinatyafarov/Portfolio/tree/e8da58437f938d3fb65074a31a0ab96a2666e574/Statistical%20analysis) | Python(pandas,numpy,matplotlib.pyplot,seaborn) |
 | Data_preprocessing | Предообработка данных игры "Секреты темнолесья | [Ссылка](https://github.com/rinatyafarov/Portfolio/tree/e8da58437f938d3fb65074a31a0ab96a2666e574/Online%20games) | Python(pandas,numpy),JypiterNotebook |
